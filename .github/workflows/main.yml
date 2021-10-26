@@ -1,6 +1,6 @@
 name: A workflow for my Hello World file
 
-on: push
+on: push https://github.com/dwambia/hello-github-actions/tree/dwambia-patch-1
 jobs:
   build:
     name: Hello world action
